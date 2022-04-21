@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aeongt710
 - 👀 I’m interested in designing algorithms.
-- 🌱 I’m currently learning dJango and Java Desktop.
-- 💞️ I’m looking to collaborate on java desktop projects.
+- 🌱 I’m currently learning ASP.NET Core and Android.
+- 💞️ I’m looking to collaborate on .NET Core Razor Pages and Android projects.
 - 📫 How to reach me "ahmadgt710@gmail.com"
 
 <!---
